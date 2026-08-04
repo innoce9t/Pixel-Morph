@@ -1,0 +1,9 @@
+{
+  "output_dir": "C:/Users/drago/Desktop",
+  "dpi": 200,
+  "quality": 90,
+  "subfolder_per_pdf": false,
+  "combine_pages": true,
+  "skip_existing": false,
+  "output_format": "WEBP"
+}
